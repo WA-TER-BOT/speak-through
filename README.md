@@ -13,4 +13,6 @@
 
 ## 账号同步
 
-公开站点的 Appwrite Web 平台需要包含 `wa-ter-bot.github.io`。未登记时仍可本机练习，登录/云同步会提示网络不可用；原站不受影响。
+公开站点已在 Appwrite 项目登记 Web 平台：Name 为 `Speak through GitHub Pages`，Hostname 为 `wa-ter-bot.github.io`，登录与云同步已启用。
+
+Appwrite Free 计划只允许 3 个 Web 平台。本次没有新增第 4 个平台，而是把原 `Speak through Netlify` 测试平台改名并改为 `wa-ter-bot.github.io`；原 ChatGPT Sites 平台保留。
